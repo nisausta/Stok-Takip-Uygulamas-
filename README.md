@@ -14,4 +14,5 @@ Stok Sorgu Sayfası
 
 Sorgulanabilir Stoktakiler Sayfası
 
-![Resim2](https://github.com/user-attachments/assets/e6e0ff5c-2680-466d-99ff-0ed8117b5bd9)
+
+![sorgulama](https://github.com/user-attachments/assets/bd1f29dc-416e-4214-a8b8-4e1d6b8d0c56)
