@@ -16,3 +16,6 @@ Sorgulanabilir Stoktakiler Sayfası
 
 
 ![sorgulama](https://github.com/user-attachments/assets/bd1f29dc-416e-4214-a8b8-4e1d6b8d0c56)
+
+
+!!!MySQL Workbench 8.0 CE Kullanarak veritabanı bağlantısını yaptık SQL dosyasını import ederek çalışır hale getirebilirsiniz.!!!!
